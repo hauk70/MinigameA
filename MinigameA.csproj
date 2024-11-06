@@ -45,8 +45,8 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.27f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Runtime/Boot.cs" />
-    <None Include="Assets/MinigameA.asmdef" />
+    <Compile Include="Assets/MinigameACore/Runtime/Boot.cs" />
+    <None Include="Assets/MinigameACore/MinigameA.asmdef" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.27f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

@@ -1,0 +1,3 @@
+[submodule "Assets/MinigameACore"]
+	path = Assets/MinigameACore
+	url = https://github.com/hauk70/MinigameACore.git
